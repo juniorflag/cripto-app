@@ -1,6 +1,6 @@
-# React + Vite
+# Cripto App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is used to implement basic knowledge in react by implementing a query to an API to find out the cost in your local currency of the best-known cryptocurrencies
 
 Currently, two official plugins are available:
 
